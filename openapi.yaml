@@ -80,7 +80,7 @@ info:
   contact:
     email: help@yrikka.com
   x-logo:
-    url: 'https://k-kzl.github.io/openapi-docs/Yrikka-Transparent-Colored.png'
+    url: 'https://k-kzl.github.io/openapi-docs/logo.png'
     altText: 'Yrikka Logo'
 externalDocs:
   description: GitHub repository with example implementation
